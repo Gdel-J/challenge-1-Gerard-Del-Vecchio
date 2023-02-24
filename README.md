@@ -21,14 +21,13 @@ GIVEN a webpage meets accessibility standards
 N/A
 
 ## Installation
-
 click on the link
+https://github.com/Gdel-J/challenge-1-Gerard-Del-Vecchio.git
+
 
 ## Usage
 
-Put screenshot!!
-
-![challenge-1-Gerard-Del-Vecchio\assets\images\Screenshot challenge-1-Gerard-Del-Vecchio.png](assets/images/screenshot.png)  to do
+![challenge-1-Gerard-Del-Vecchio\assets\images\screenshot png](./assets/images/screenshot.png)  
 
 
 ## Credits
